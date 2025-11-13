@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-signals-state-management": {
+    "angular20-signal-state": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -59,10 +59,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "angular-signals-state-management:build:production"
+              "buildTarget": "angular20-signal-state:build:production"
             },
             "development": {
-              "buildTarget": "angular-signals-state-management:build:development"
+              "buildTarget": "angular20-signal-state:build:development"
             }
           },
           "defaultConfiguration": "development"

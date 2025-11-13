@@ -1,7 +1,7 @@
 {
-  "name": "angular-signals-state-management",
+  "name": "angular20-signal-state",
   "version": "1.1.1",
-  "description": "Angular Signals State Management. Follows NgRx pattern.",
+  "description": "Angular Signals State Management. How to use Angular Signals to manage state in Angular 20, following the Redux pattern.",
   "author": {
     "name": "JC Lango",
     "email": "info@angularexample.com"

@@ -1,6 +1,6 @@
 # Angular Signals State Management
 
-Example shows how to use Angular Signals to manage state, following the Redux pattern.
+Example shows how to use Angular Signals to manage state in Angular 20, following the Redux pattern.
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ In return, Please:
 
 ### Click the Star Button and Follow the Author
 
-* Go to the Repository https://github.com/angularexample/angular-signals-state-management and click the **Star** button at the top right.
+* Go to the Repository https://github.com/angularexample/angular20-signal-state and click the **Star** button at the top right.
 * Go to my GitHub page https://github.com/angularexample and click the **Follow** button on the left side.
 
 This will promote the repo and help others to find this solution.
@@ -39,7 +39,7 @@ This will promote the repo and help others to find this solution.
 ## See the Article on Medium
 
 You can read the article on Medium for this project:
-[Angular Signals State Management](https://medium.com/@info_35389/angular-signals-state-management-5704d2d408c6)
+[Angular Signals State Management](https://medium.com/@info_35389/angular20-signal-state-5704d2d408c6)
 
 
 ## Date Published
@@ -247,5 +247,5 @@ However, the shortened version has some disadvantages:
 
 At the same time, we could also eliminate the redux pattern, and instead use the store directly in the view.
 
-I have done exactly those things in the [Angular Signals State Management (Shorter Version)](https://github.com/angularexample/angular-signals-state-management-shorter-version) example.
+I have done exactly those things in the [Angular Signals State Management (Shorter Version)](https://github.com/angularexample/angular20-signal-state-shorter-version) example.
 
